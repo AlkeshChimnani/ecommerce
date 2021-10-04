@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">ECommerce</string>
+    <string name="app_name">Ecommerce</string>
+
+    <!--LoadingDialog!-->
+    <string name="activity_dashboard_title">Dashboard</string>
+
+    <!--Screen2Activity!-->
+    <string name="activity_screen2_title">Images</string>
+
+
+    <!--LoadingDialog!-->
+    <string name="dialog_loading_please_wait">Please Wait</string>
 </resources>
